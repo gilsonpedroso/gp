@@ -226,19 +226,19 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Web Developer";
+        content: "Desenvol. Web";
     }
     21%, 40%{
-        content: "Developer";
+        content: "Desenvolvedor";
     }
     41%, 60%{
-        content: "Web Designer";
+        content: "Professor";
     }
     61%, 80%{
-        content: "Youtuber";
+        content: "Estudante";
     }
     81%, 100%{
-        content: "Script Writer";
+        content: "Funcionário Público (Defesa Civil)";
     }
 }
 
