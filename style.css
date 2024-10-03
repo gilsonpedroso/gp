@@ -226,7 +226,7 @@ span{
 
 @keyframes words{
     0%, 20%{
-        content: "Desenvol. Web";
+        content: "Desenvolvedor Web";
     }
     21%, 40%{
         content: "Desenvolvedor";
@@ -238,7 +238,7 @@ span{
         content: "Estudante";
     }
     81%, 100%{
-        content: "Funcionário Público (Defesa Civil)";
+        content: "Funcionário Público";
     }
 }
 
