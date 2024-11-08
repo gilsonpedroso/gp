@@ -240,4 +240,20 @@ experiente img{
 }
 .project-card:hover{
 	background-color: black;
+	color: white;
+	transform: translateY(-10px)scale(1.02);
+}
+.project-card:hover .btn{
+	border: 2px solid white;
+	background-color: white;
+	color: black;
+}
+.project-card:hover .btn:hover{
+	border: 2px solid white;
+	background-color: white;
+	color: black;
+}
+.project-card h3{
+	font-size: 2rem;
+	font-weight: 500;
 }
