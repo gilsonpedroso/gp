@@ -1,0 +1,36 @@
+Colocar botão no menu que deixa o site em inglês 
+
+
+Colocar o Efeito escrevendo em sobre mim onde Muda Tipo Desenvolvedor WEB, ... 
+
+adicionar Parte de Escolaridade 
+
+
+
+------------------------------------------------------------
+Na Parte de Experiência adicionar um carrossel com as escolaridade também 
+
+
+Primeiro a Escolaridade - 1. Mestrado 2. Especialização 3. Graduação 4. Técnico 
+
+Experiência - 1. Agente de proteção 2. Mestre Baterias 3. Freelancer 4.  Aprendiz de Gestão e Inteligência Artificial 
+----------------------------------------------------
+Adicionar Parte de Serviços 
+
+
+
+
+
+Projetos - Adicionar todos 
+
+-- Chatbot 
+	Link para a página  
+
+-- Reconhecimento Facial 
+ 
+-- Página para material de concurso 
+
+-- Manutenção de Hardware 
+	Link para página 
+	Mini-curso 
+-- Criação a Applicativos 
