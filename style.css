@@ -85,8 +85,36 @@ li a:hover::before{
 
 
 /*Secções sobre mim*/ 
-	min-height
-
+section{
+	min-height:100
+	padding: 8rem 12%;
+	width: 100%;
+	position: relative;
+}
+.about{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10rem;
+}
+.about img{
+	width: 30vw
+	border-radius: 50%;	
+}
+.info-box{
+	display: flex;
+	flex-direction: colunn;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	gap: 1.5rem
+}
+.about .about-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10rem;
+}
 .info-box h3{
 	font-size: 1.8rem;
 	font-weight: 500;
