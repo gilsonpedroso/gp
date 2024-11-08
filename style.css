@@ -219,3 +219,25 @@ experiente img{
 ::-webkit-scrollbar-thumb{
 	background: linear-gradient(to bottom, #009dff, #ff00ff);
 }
+/*Secções sobre Projetos*/
+
+.project-grip{
+	display: grid;
+	grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+	gap: 2rem;
+}
+.project-card{
+	padding: 3rem 2rem;
+	display: flex;
+	flex-direction: colum;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	gap: 1.5rem;
+	border-radius: 3rem;
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+}
+.project-card:hover{
+	background-color: black;
+}
