@@ -86,7 +86,7 @@ li a:hover::before{
 
 /*Secções sobre mim*/ 
 section{
-	min-height:100
+	min-height: 100vh;
 	padding: 8rem 12%;
 	width: 100%;
 	position: relative;
@@ -95,19 +95,18 @@ section{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	gap: 10rem;
 }
 .about img{
-	width: 30vw
-	border-radius: 50%;	
+	width: 24vw;
+	border-radius: 40%;	
 }
 .info-box{
 	display: flex;
-	flex-direction: colunn;
+	flex-direction: column;
 	text-align: center;
 	align-items: center;
 	justify-content: center;
-	gap: 1.5rem
+	gap: 1.5rem;
 }
 .about .about-container{
 	display: flex;
@@ -130,7 +129,7 @@ section{
 	color: transparent;
 	font-size: 2rem;
 }
-;btn-group{
+.btn-group{
 	display: flex;
 	gap: 1rem;
 }
